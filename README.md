@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ G. Sai Jaswanth Raj
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Btech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me>>>>> ph.No- 7981582323 >>> Email- gsjraj.07@gmail.com
+- 🌱 I’m currently learning Digital Forensics
+- 💞️ I’m looking to collaborate on Threat Management
+- 📫 How to reach me >>>>>>gsjraj.07@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Believe==Become
 
